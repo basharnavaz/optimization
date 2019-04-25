@@ -3,6 +3,7 @@
 import numpy as np
 from math import sqrt, log, cos, sin
 
+
 def v1(x):
     b = np.array([1, 4, 5, 4, 2, 1])
     c = np.array([[9, 1, 7, 4, 5, 7],
